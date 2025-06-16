@@ -1,2 +1,2 @@
-![image](https://github.com/HoanghoDev/weather/assets/110652388/5268c6a8-87b2-4e32-9af9-d558b57b510d)
+![image](https://github.com/HarsithJJ/Weather-App/blob/be7eb9abeb727cc6657bb9187ed596a157554e86/Wheather.png)
 
